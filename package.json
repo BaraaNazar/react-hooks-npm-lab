@@ -1,0 +1,23 @@
+{
+  "name": "baraa",
+  "version": "1.0.0",
+  "description": "## Learning Goals",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"scripts\": {"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BaraaNazar/react-hooks-npm-lab.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BaraaNazar/react-hooks-npm-lab/issues"
+  },
+  "homepage": "https://github.com/BaraaNazar/react-hooks-npm-lab#readme",
+  "dependencies": {
+    "date-fns": "^2.29.3",
+    "serve": "^14.1.1"
+  }
+}
